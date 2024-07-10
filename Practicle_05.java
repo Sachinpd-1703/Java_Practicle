@@ -8,11 +8,11 @@ public class Practicle_05{
 
         System.out.println("Enter value of a,b,c to find to all real solutions to the quadratic equation ax^2+bx+c = 0");
         System.out.print("Value of a : ");
-        double a = sc.nextInt();
+        double a = sc.nextDouble();
         System.out.print("Value of b : ");
-        double b = sc.nextInt();
+        double b = sc.nextDouble();
         System.out.print("Value of c : ");
-        double c = sc.nextInt();
+        double c = sc.nextDouble();
 
         double D = b*b-4*a*c;
 
