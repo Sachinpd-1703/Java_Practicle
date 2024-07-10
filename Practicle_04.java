@@ -30,8 +30,8 @@ public class Practicle_04{
         String City = sc.next();
 
         
-
-        System.out.println("\nEmp_ID = "+Emp_ID);
+        System.out.println("\nDispalying Employee Details");
+        System.out.println("Emp_ID = "+Emp_ID);
         System.out.println("Name = "+Name);
         System.out.println("Gender = "+Gender);
         System.out.println("Age = "+Age);
