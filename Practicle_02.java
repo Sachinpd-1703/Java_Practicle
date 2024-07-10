@@ -35,8 +35,8 @@ public class Practicle_02{
         System.out.println("AND ("+a+" & "+b+") : " + and);
         System.out.println("OR ("+a+" || "+b+") : " + or);
         System.out.println("XOR ("+a+" ^ "+b+") : " + xor);
-        System.out.println("Left Shift ("+a+" << 1") : " + leftShift);
-        System.out.println("Right Shift ("+a+" >> 1") : " + rightShift);
+        System.out.println("Left Shift ("+a+" << 1) : " + leftShift);
+        System.out.println("Right Shift ("+a+" >> 1) : " + rightShift);
         System.out.println("Bitwise Complement ( ~ "+a+") : " + bitwiseComplement);
     }
 }
