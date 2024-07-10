@@ -68,8 +68,8 @@ public class Practicle_03{
         System.out.println("AND ("+a+" & "+b+") : " + Bit.AND(a,b));
         System.out.println("OR ("+a+" || "+b+") : " + Bit.OR(a,b));
         System.out.println("XOR ("+a+" ^ "+b+") : " + Bit.XOR(a,b));
-        System.out.println("Left Shift ("+a+" << "+b+") : " + Bit.LeftShift(a));
-        System.out.println("Right Shift ("+a+" >> "+b+") : " + Bit.RightShift(a));
+        System.out.println("Left Shift ("+a+" << 1") : " + Bit.LeftShift(a));
+        System.out.println("Right Shift ("+a+" >> 1") : " + Bit.RightShift(a));
         System.out.println("NOT ( ~ "+a+") : " + Bit.NOT(a));
     }
 }
